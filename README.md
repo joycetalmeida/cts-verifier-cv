@@ -1,4 +1,4 @@
-# Implementing OpenCV and Librosa in the automation of the Projection Video Playback Test of the Google CTS Verifier test suite
+## Implementing OpenCV and Librosa in the automation of the Projection Video Playback Test of the Google CTS Verifier test suite
 
 The Projection Video Playback Test involves displaying a flashing white box on the device screen, and the tester needs to verify whether this visual appears in sync with a 'beep' sound played during the test.  
 
